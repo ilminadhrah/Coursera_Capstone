@@ -1,0 +1,18 @@
+3. DATA Preparation
+
+DATA Collection
+
+In this project we will be using these data:
+
+1- List of region in singapore, with their latitude and longitude
+
+Singapore region, along with its cities can be retrieved from this site:
+https://simplemaps.com/data/sg-cities
+
+For scraping the data we will be using python.
+
+2)Venues of all schools in Singapore registered in Foursquare.
+Data : Foursquare API
+Visualize the data in form of Boundary Map.
+Data : Folium package (Folium is a python library that can create interactive leaflet map using coordinate data.)
+Sk-learn package & yellowbrick package
