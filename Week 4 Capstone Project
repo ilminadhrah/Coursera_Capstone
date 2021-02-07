@@ -1,0 +1,26 @@
+Project title : Answering dilemma - I have kids and plan to relocate to singapore, which part of singapore should i choose?
+
+Introduction and Business Problem
+
+1. Introduction
+Introduction / Description of the project
+
+Singapore, officially the Republic of Singapore, is a sovereign island city-state in maritime Southeast Asia. It has the second greatest population density in the world. The country has almost 5.7 million residents, 61% (3.4 million) of whom are Singaporean citizens. 
+After early years of turbulence and despite lacking natural resources and a hinterland, the nation rapidly developed to become one of the Four Asian Tigers based on external trade, becoming a highly developed country; it is ranked ninth on the UN Human Development Index, and has the second-highest GDP per capita (PPP) in the world. Singapore is the only country in Asia with an AAA sovereign rating from all major rating agencies. It is a major financial and shipping hub, consistently ranked the most expensive city to live in since 2013, and has been identified as a tax haven. Singapore is placed highly in key social indicators: education, healthcare, quality of life, personal safety and housing, with a home-ownership rate of 91%. Singaporeans enjoy one of the world's longest life expectancies, fastest Internet connection speeds and one of the lowest infant mortality rates in the world. 
+
+With its stable climate all year round, Singapore attracted highly skilled individuals  and families as a hub of working and living a decent life.It will only took an individual 4 hours drive along 161 kilometres to complete tour of the city. Considering the efficiency of the transportation system, a family with children planning to move to Singapore would want to consider the nearest school available as a place of living. 
+
+In this project we will try to analyse all the Schools in Singpaore's different region, divide them according to clusters to recommend a place that would be suitable for a family with kids moving to Singapore. 
+
+2. Background of the Business Problem
+
+Business Problem
+
+Here in our project we will check all the Schools that are present in different region of Singapore. We will analyse the data Singpore's region and see where the schools are in highest number. We will check the proximity of each school according to Folium maps.
+
+Target Audience
+Who all will be beneficial from this project :
+A family planning to move to singapore with school aged children. For the first year, mother wanted to stay at a place near to many schools. Reason 
+1) They have 5 children that are still in school.
+2) Father/husband works as teacher, plan to tutor after-class school students as a hobby.
+3) Mother works from home, the company she is working requires her to come once a month only, located near the Changi airport.
